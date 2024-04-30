@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "kotlin",
+            "request": "launch",
+            "name": "Kotlin Launch",
+            "projectRoot": "${workspaceFolder}/app",
+            "_mainClass": "org/example/AppKt",
+            "mainClass": "org.example.AppKt",
+            "preLaunchTask": "build"
+        }
+    ]
+}
+
